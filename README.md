@@ -1,6 +1,7 @@
 ﻿#JeeSpringCloud
 
 帮忙标星、点赞，申请码云最有价值开源项
+https://gitee.com/JeeHuangBingGui/jeeSpringCloud
 
 演示版地址：http://yocity.imwork.net:10858/admin?login<br>
 官网地址：https://jeespring.icoc.bz/<br>
